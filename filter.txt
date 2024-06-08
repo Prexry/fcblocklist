@@ -1,0 +1,10 @@
+!
+! Title: Fierce Castle DNS
+! Description: The Fierce Castle DNS
+! Homepage: https://github.com/Prexry/fcblocklist
+! Last modified: 2024-06-08T00:21:10.919Z
+!
+!
+!
+! Source name: FC DNS
+! Source: https://github.com/Prexry/fcblocklist/blob/main/filter.txt
