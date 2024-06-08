@@ -7,4 +7,4 @@
 !
 !
 ! Source name: FC DNS
-! Source: https://github.com/Prexry/fcblocklist/blob/main/filter.txt
+! Source: https://raw.githubusercontent.com/Prexry/fcblocklist/main/filter.txt
