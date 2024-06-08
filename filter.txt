@@ -119,6 +119,7 @@
 # Aristotle Student
 ||aristotleinsight.com^
 ||sgtlabs.com^
+||ad.msd19.org^
 
 # Gopher Buddy
 ||amplifiedit.com^
